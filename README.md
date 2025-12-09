@@ -1,51 +1,63 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
+🏋️‍♂️ Projeto Natty or Not — IA Generativa Aesthetic
+📒 Descrição
 
-## 🚀 Introdução
+Este projeto foi desenvolvido para o Lab Natty or Not da DIO, explorando IAs Generativas para criar conteúdos realistas e criativos. A proposta é simular um conteúdo que pareceria “natty”, mas usando ferramentas avançadas de IA para geração de texto, imagem, áudio e/ou vídeo.
 
-> Woooow! Look at this 👀
+O projeto demonstra o uso prático de IA na criação de mídias modernas, reforçando habilidades de portfólio e versionamento com GitHub.
 
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
+🤖 Tecnologias Utilizadas
 
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
+ChatGPT / GPT-4 / GPT-5 — geração de texto e roteiros
 
-### Objetivos
+Leonardo AI / Midjourney / Firefly / DALL·E — criação de imagens
 
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
+ElevenLabs / Parrot AI — geração de voz (para podcasts ou vídeos)
 
-### Template
+HeyGen / D-ID — criação de avatar virtual para vídeo
 
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+Git & GitHub — versionamento e publicação do projeto
 
-## 📒 Descrição
-Breve descrição do seu projeto
+Você pode substituir pelas ferramentas específicas que você usou.
 
-## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+🧐 Processo de Criação
 
-## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Ideação: Defini o tema inspirado no movimento “Natty or Not” & IA Generativa.
 
-## 🚀 Resultados
-Apresente os resultados do seu projeto
+Roteiro: Usei IA para estruturar o conteúdo e criar o texto base.
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+Geração de mídia:
 
-### Exemplos e Insigths
+Texto com ChatGPT
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
+Imagens com modelo generativo
 
-## Links Interessantes
+(Opcional) Voz com ElevenLabs
 
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
+(Opcional) Avatar com HeyGen
 
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+Edição final: Ajustes, cortes, montagem e refinamentos.
+
+Publicação: Versionamento no GitHub e compartilhamento conforme orientações da DIO.
+
+🚀 Resultados
+
+Aqui você apresenta o que criou. Exemplos:
+
+🖼 Imagem Aesthetic criada por IA
+
+🎧 Podcast com voz gerada por ElevenLabs
+
+🎥 Vídeo com avatar virtual apresentando o tema
+
+📘 E-book estruturado com IA explicando Generative AI
+
+Coloque links, prints, GIFs ou vídeos do seu projeto.
+
+💭 Reflexão (Opcional)
+
+Criar um conteúdo que pareça “natty” usando IA é um desafio interessante. O processo mostra o quanto essas tecnologias conseguem entregar resultados realistas, mas também destaca a importância do toque humano: criatividade, direção artística e intenção.
+
+🔗 Repositório Original (DIO)
+
+Fork feito a partir de:
+https://github.com/digitalinnovationone/lab-natty-or-not

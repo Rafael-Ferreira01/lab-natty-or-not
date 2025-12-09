@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Natty or Not — Simulador</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body class="dark">
+
+  <button id="themeToggle">🌙</button>
+
+  <main class="container">
+    <section class="card natty-or-not" id="image-section">
+      <h2>Analisador de Imagens (Simulado)</h2>
+      <p class="muted">Envie uma imagem e o sistema fará uma análise simulada.</p>
+
+      <div id="drop-zone" class="drop-zone">
+        <p id="drop-msg">Arraste ou clique para enviar uma imagem</p>
+        <input id="image-input" type="file" accept="image/*" hidden>
+      </div>
+
+      <button id="btnUpload" class="btn outline">Escolher Arquivo</button>
+
+      <div id="preview"></div>
+
+      <div id="image-analysis-result" class="resultado">Resultado aparecerá aqui</div>
+    </section>
+  </main>
+
+  <script src="script.js"></script>
+</body>
+</html>

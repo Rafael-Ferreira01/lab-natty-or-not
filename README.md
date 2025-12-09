@@ -1,63 +1,53 @@
-🏋️‍♂️ Projeto Natty or Not — IA Generativa Aesthetic
+🧬 Natty or Not — IA Detector
 📒 Descrição
 
-Este projeto foi desenvolvido para o Lab Natty or Not da DIO, explorando IAs Generativas para criar conteúdos realistas e criativos. A proposta é simular um conteúdo que pareceria “natty”, mas usando ferramentas avançadas de IA para geração de texto, imagem, áudio e/ou vídeo.
+Projeto desenvolvido para o Lab Natty or Not da DIO, inspirado na tendência de identificar se algo é “natural” ou “feito artificialmente”.
+Aqui, você poderá analisar textos e imagens e receber uma resposta simulada indicando se o conteúdo parece ter sido criado por um humano ou por uma Inteligência Artificial.
 
-O projeto demonstra o uso prático de IA na criação de mídias modernas, reforçando habilidades de portfólio e versionamento com GitHub.
+Este projeto utiliza uma interface moderna, modo claro/escuro e um simulador de análise com IA.
 
 🤖 Tecnologias Utilizadas
 
-ChatGPT / GPT-4 / GPT-5 — geração de texto e roteiros
+HTML5
 
-Leonardo AI / Midjourney / Firefly / DALL·E — criação de imagens
+CSS3 (modo claro/escuro + estilo moderno)
 
-ElevenLabs / Parrot AI — geração de voz (para podcasts ou vídeos)
+JavaScript
 
-HeyGen / D-ID — criação de avatar virtual para vídeo
+Simulação de IA (sem API real)
 
-Git & GitHub — versionamento e publicação do projeto
+(Opcional) OpenAI API — planejado para versões futuras
 
-Você pode substituir pelas ferramentas específicas que você usou.
+🧠 Funcionalidades do Projeto
+
+✔ Classificação de texto — “Humano” ou “IA”
+✔ Análise simulada de imagens — upload ou drag and drop
+✔ Modo claro/escuro com troca dinâmica
+✔ Interface moderna e responsiva
+✔ Feedback visual e animações
 
 🧐 Processo de Criação
 
-Ideação: Defini o tema inspirado no movimento “Natty or Not” & IA Generativa.
+Planejamento da interface inspirada em detectores de IA modernos.
 
-Roteiro: Usei IA para estruturar o conteúdo e criar o texto base.
+Criação do layout base com HTML.
 
-Geração de mídia:
+Desenvolvimento de um estilo moderno com CSS, adicionando animações, sombras e responsividade.
 
-Texto com ChatGPT
+Implementação da lógica em JavaScript simulando uma análise de IA com aleatoriedade controlada.
 
-Imagens com modelo generativo
+Inclusão do modo claro/escuro e ajustes de acessibilidade.
 
-(Opcional) Voz com ElevenLabs
-
-(Opcional) Avatar com HeyGen
-
-Edição final: Ajustes, cortes, montagem e refinamentos.
-
-Publicação: Versionamento no GitHub e compartilhamento conforme orientações da DIO.
+Adicionada análise de imagem com upload e drag & drop.
 
 🚀 Resultados
 
-Aqui você apresenta o que criou. Exemplos:
+O projeto entrega uma experiência completa e intuitiva para o usuário:
 
-🖼 Imagem Aesthetic criada por IA
+Interface totalmente funcional
 
-🎧 Podcast com voz gerada por ElevenLabs
+Modo escuro elegante
 
-🎥 Vídeo com avatar virtual apresentando o tema
+Análise simulada de IA com feedback instantâneo
 
-📘 E-book estruturado com IA explicando Generative AI
-
-Coloque links, prints, GIFs ou vídeos do seu projeto.
-
-💭 Reflexão (Opcional)
-
-Criar um conteúdo que pareça “natty” usando IA é um desafio interessante. O processo mostra o quanto essas tecnologias conseguem entregar resultados realistas, mas também destaca a importância do toque humano: criatividade, direção artística e intenção.
-
-🔗 Repositório Original (DIO)
-
-Fork feito a partir de:
-https://github.com/digitalinnovationone/lab-natty-or-not
+Responsividade para usar no PC ou celular
